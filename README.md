@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**WanHe-1/WanHe-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WanHe-1/WanHe-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Visitor Count](https://profile-counter.glitch.me/WanHe-1/count.svg)
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
