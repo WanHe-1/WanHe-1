@@ -1,14 +1,14 @@
 <h2><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm WanHe ! <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
-<p><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>Environmental Engineering</em>！<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>
+Student in Artificial Intelligence & Industrial Robot Technology</em>！<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></p>
 
-[[Bilibili Nanako1026](https://img.shields.io/badge/@Nanako1026-f25d8e?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/21466311)](https://space.bilibili.com/21466311)
-[[Instagram ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/elainafanboy)](https://instagram.com/elainafanboy)
-[[Steam ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-171a21?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/ElainaFanBoy)](https://steamcommunity.com/id/ElainaFanBoy)
+[![Bilibili sansui221B](https://img.shields.io/badge/@sansui221B-f25d8e?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/3494377590622566)
 
-[[Twitter: ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy233-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ElainaFanBoy233)](https://twitter.com/ElainaFanBoy233)
-[[GitHub ElainaFanBoy](https://img.shields.io/github/followers/ElainaFanBoy?label=followers&style=social)](https://github.com/ElainaFanBoy)
-[[GitHub ElainaFanBoy](https://img.shields.io/github/stars/ElainaFanBoy?style=social)](https://github.com/ElainaFanBoy)
+
+[![ZHIHU: WanHe](https://img.shields.io/badge/@WanHe-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://www.zhihu.com/people/sansui007)
+[![GitHub WanHe-1](https://img.shields.io/github/followers/WanHe-1?label=followers&style=social)](https://github.com/WanHe-1)
+[![GitHub WanHe-1](https://img.shields.io/github/stars/WanHe-1?style=social)](https://github.com/WanHe-1)
 
 ---
 
