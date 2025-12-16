@@ -1,7 +1,7 @@
-<h2><img src="https://cdn.jsdelivr.net/gh/WanHe-1/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm WanHe ! <img src="https://cdn.jsdelivr.net/gh/WanHe-1/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm WanHe ! <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
-<p><img src="https://cdn.jsdelivr.net/gh/WanHe-1/picx-images-hosting@master/20230719/2.gif" width="30"> <em>
-Student in Artificial Intelligence & Industrial Robot Technology</em>！<img src="https://cdn.jsdelivr.net/gh/WanHe-1/picx-images-hosting@master/20230719/3.gif" width="30"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>
+Student in Artificial Intelligence & Industrial Robot Technology</em>！<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></p>
 
 [![Bilibili sansui221B](https://img.shields.io/badge/@sansui221B-f25d8e?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/3494377590622566)
 
@@ -16,7 +16,7 @@ Student in Artificial Intelligence & Industrial Robot Technology</em>！<img src
 <tr>
 <td valign="top" width="50%">
 
-<h3><img src="https://cdn.jsdelivr.net/gh/WanHe-1/picx-images-hosting@master/20230719/4.gif" width="50"> A little more about me</h3>
+<h3><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/4.gif" width="50"> A little more about me</h3>
 
 <pre lang="julia" style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:6px;overflow:auto;">
 module main
@@ -65,8 +65,8 @@ main :: func(): void {
 
 ---
 
-⭐️ From [@WanHe-1](https://github.com/WanHe-1) 💕  
-<img align="right" src="https://komarev.com/ghpvc/?username=WanHe-1&label=Profile+Views&color=3a8755">
+⭐️ From [@ElainaFanBoy](https://github.com/ElainaFanBoy) 💕  
+<img align="right" src="https://komarev.com/ghpvc/?username=ElainaFanBoy&label=Profile+Views&color=3a8755">
 
 [banner]: ./README.assets/banner.webp
 [signature]: ./README.assets/signature.svg
