@@ -58,7 +58,7 @@ main :: func(): void {
 | Machine Learning | ![][ml-pytorch] ![][ml-r]                                                                                      |
 | DevOps           | ![][ops-docker] ![][ops-nginx] ![][ops-vercel] ![][ops-github-action]                                                                            |
 | IDE              | ![][ide-cursor] ![][ide-vscode] ![][ide-vim]                                                                    |
-| OS               | ![][os-macos] ![][os-linux]                                                                           |
+| OS               | ![][os-Windows] ![][os-linux]                                                                           |
 | Other            | ![][other-markdown]                                                                                            |
 
 </td>
@@ -70,45 +70,30 @@ main :: func(): void {
 ⭐️ From [@ElainaFanBoy](https://github.com/ElainaFanBoy) 💕  
 <img align="right" src="https://komarev.com/ghpvc/?username=ElainaFanBoy&label=Profile+Views&color=3a8755">
 
-
-
-<!-- Design -->
-[design-figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-[design-ps]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white
-[design-ai]: https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
-
-<!-- Frontend -->
-[frontend-vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[frontend-react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[frontend-js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[frontend-css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[frontend-ts]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-
-<!-- Backend -->
-[backend-python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[backend-nodejs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-[backend-cpp]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-[backend-c]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
-[backend-mysql]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-
-<!-- Machine Learning -->
-[ml-pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-[ml-r]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-
-<!-- DevOps -->
-[ops-docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[ops-nginx]: https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
-[ops-vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
-[ops-github-action]: https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-
-<!-- IDE -->
-[ide-cursor]: https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white
-[ide-vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[ide-vim]: https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white
-
-<!-- OS -->
-[os-macos]: https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
-[os-linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-
-<!-- Other -->
-[other-markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[banner]: ./README.assets/banner.webp
+[signature]: ./README.assets/signature.svg
+[backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
+[backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
+[backend-mysql]: https://img.shields.io/badge/-MySQL-000?style=flat-square&logoColor=white&logo=mysql
+[backend-nodejs]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=nodedotjs
+[backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
+[design-ai]: https://img.shields.io/badge/-Illustrator-000?style=flat-square&logoColor=white&logo=adobeillustrator
+[design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
+[design-ps]: https://img.shields.io/badge/-Photoshop-000?style=flat-square&logoColor=white&logo=adobephotoshop
+[frontend-css]: https://img.shields.io/badge/-CSS3-000?style=flat-square&logoColor=white&logo=css
+[frontend-js]: https://img.shields.io/badge/-JavaScript-000?style=flat-square&logoColor=white&logo=javascript
+[frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
+[frontend-ts]: https://img.shields.io/badge/-TypeScript-000?style=flat-square&logoColor=white&logo=typescript
+[frontend-vue]: https://img.shields.io/badge/-Vue.js-000?style=flat-square&logoColor=white&logo=vuedotjs
+[ide-cursor]: https://img.shields.io/badge/-Cursor-000?style=flat-square&logoColor=white&logo=cursor
+[ide-vim]: https://img.shields.io/badge/-Vim-000?style=flat-square&logoColor=white&logo=vim
+[ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
+[ml-pytorch]: https://img.shields.io/badge/-PyTorch-000?style=flat-square&logoColor=white&logo=pytorch
+[ml-r]: https://img.shields.io/badge/-R-000?style=flat-square&logoColor=white&logo=r
+[ops-docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
+[ops-nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logoColor=white&logo=nginx
+[ops-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
+[ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=githubactions
+[os-Windows]: https://img.shields.io/badge/-Windows-000?style=flat-square&logoColor=white&logo=apple
+[os-linux]: https://img.shields.io/badge/-Linux-000?style=flat-square&logoColor=white&logo=linux
+[other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
