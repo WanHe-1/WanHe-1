@@ -43,10 +43,9 @@ main :: func(): void {
 }
 </pre>
 
-<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/5.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more !</b> :)</em>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 <h3>💫 Tech Stack and Tools</h3>
 
