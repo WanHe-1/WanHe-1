@@ -12,9 +12,6 @@ Student in Artificial Intelligence & Industrial Robot Technology</em>！<img src
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="30%">
 
 <h3><img src="https://s1.aigei.com/src/img/gif/d5/d56a366a49d946d991ed49d1613202cb.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Lt0pyqxcFg3dXt0U7kevvUlxuGg=" width="50"> A little more about me</h3>
 
@@ -44,8 +41,6 @@ main :: func(): void {
 </pre>
 
 
-</td>
-<td valign="top" width="70%">
 
 <h3>💫 Tech Stack and Tools</h3>
 
