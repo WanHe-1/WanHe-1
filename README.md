@@ -70,7 +70,7 @@ main :: func(): void {
 ⭐️ From [@WanHe](https://github.com/WanHe-1) 💕  
 <img align="right" src="https://komarev.com/ghpvc/?username=WanHe-1&label=Profile+Views&color=3a8755">
 
-[banner]: ./assets/banner.webp
+[banner]: ./image/banner.webp
 [signature]: ./assets/signature.svg
 [languages-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [languages-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
