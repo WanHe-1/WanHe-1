@@ -1,5 +1,9 @@
 <h2><img src="https://s1.aigei.com/src/img/gif/34/34399e98b4314360ab0984663eea9c4a.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:gFhMC290IM3wuYN3OKsrsapHV6o=" width="30"> Hi, I'm WanHe ! <img src="https://s1.aigei.com/src/img/gif/35/35c0e965aaf3471b8e0c2db43a1d0dc6.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:WOOqgYDxRUsXTzo-5fJuqBpICLA=" width="30"></h2>
 
+
+![][banner]
+
+
 <p><img src="https://camo.githubusercontent.com/321188632040e6db9e58e00c1a11803c377592e25730f8ffe4d4a365044bdf21/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f456c61696e6146616e426f792f706963782d696d616765732d686f7374696e67406d61737465722f32303233303731392f322e676966" width="40"> <em>
 Student in Artificial Intelligence & Industrial Robot Technology</em>！<img src="https://s1.aigei.com/src/img/gif/d8/d8b87e62328d414993f72d395a6b4e7b.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:9V_WMNPaiGJmqV72ayfPE53xVh4=" width="30"></p>
 
@@ -26,17 +30,15 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  Nanako :: aboutMe = {
+  WanHe :: aboutMe = {
     pronouns: ["He", "Him"],
     languages: ["C/C##", "Python", "HTML", "Python"],
     hobbies: ["Coding", "Gaming", "Talking"],
-    funFact: "Equal is Not Always Equal in Javascript!"
   };
 
-  println "Pronouns: ${Nanako.pronouns}";
-  println "Languages I Know: ${Nanako.languages}";
-  println "My Hobbies: ${Nanako.hobbies}";
-  println "Fun Fact: ${Nanako.funFact}";
+  println "Pronouns: ${WanHe.pronouns}";
+  println "Languages I Know: ${WanHe.languages}";
+  println "My Hobbies: ${WanHe.hobbies}";
 }
 </pre>
 
@@ -63,7 +65,7 @@ main :: func(): void {
 ⭐️ From [@WanHe](https://github.com/WanHe-1) 💕  
 <img align="right" src="https://komarev.com/ghpvc/?username=WanHe-1&label=Profile+Views&color=3a8755">
 
-[banner]: ./README.assets/banner.webp
+[banner]: ./assets/banner.wedp
 [signature]: ./README.assets/signature.svg
 [languages-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [languages-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
