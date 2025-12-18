@@ -37,7 +37,7 @@ aboutMe :: struct {
 main :: func(): void {
   WanHe :: aboutMe = {
     pronouns: ["He", "Him"],
-    languages: ["C/C##", "Python", "HTML", "Python"],
+    languages: ["C/C##", "Python", "HTML", ],
     hobbies: ["Coding", "Gaming", "Talking"],
   };
 
